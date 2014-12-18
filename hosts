@@ -1,0 +1,44 @@
+# Host Database
+#
+# localhost is used to configure the loopback interface
+# when the system is booting.  Do not change this entry.
+127.0.0.1	localhost
+255.255.255.255	broadcasthost
+::1             localhost 
+fe80::1%lo0	localhost
+173.194.121.85 ssl.gstatic.com
+173.194.121.85 www.gstatic.com
+173.194.121.85 maps.gstatic.com
+173.194.121.85 ajax.googleapis.com
+173.194.121.85 fonts.googleapis.com
+173.194.121.85 mail-attachment.googleusercontent.com
+173.194.121.85 chromium.googlesource.com
+173.194.121.85 boringssl.googlesource.com
+173.194.121.85 pdfium.googlesource.com
+173.194.121.85 www.google.com
+173.194.121.85 apis.google.com
+173.194.121.85 mail.google.com
+173.194.121.85 accounts.google.com
+173.194.121.85 plus.google.com
+173.194.121.85 voice.google.com
+173.194.121.85 4.client-channel.google.com
+173.194.121.85 talkgadget.google.com
+173.194.121.85 research.google.com
+173.194.121.85 finance.google.com
+173.194.121.85 maps.google.com
+173.194.121.85 client2.google.com
+173.194.121.85 code.google.com
+173.194.121.85 security.google.com
+173.194.121.85 mt0.google.com
+173.194.121.85 mt1.google.com
+173.194.121.85 lh1.googleusercontent.com
+173.194.121.85 lh2.googleusercontent.com
+173.194.121.85 lh3.googleusercontent.com
+173.194.121.85 lh4.googleusercontent.com
+173.194.121.85 lh5.googleusercontent.com
+173.194.121.85 lh6.googleusercontent.com
+173.194.121.85 encrypted-tbn0.gstatic.com
+173.194.121.85 encrypted-tbn1.gstatic.com
+173.194.121.85 encrypted-tbn2.gstatic.com
+173.194.121.85 encrypted-tbn3.gstatic.com
+

@@ -1,2 +1,1 @@
-hosts-file
-==========
+python render.py hosts.tpl

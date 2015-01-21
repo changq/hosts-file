@@ -11,6 +11,7 @@ fe80::1%lo0	localhost
 <%
 google = [
 'www',
+'docs',
 'apis',
 'mail',
 'accounts',
@@ -33,6 +34,7 @@ sites = [
 'maps.gstatic.com',
 'ajax.googleapis.com',
 'fonts.googleapis.com',
+'maps.googleapis.com',
 'mail-attachment.googleusercontent.com',
 'chromium.googlesource.com',
 'boringssl.googlesource.com',

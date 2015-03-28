@@ -50,7 +50,7 @@ sites = [
 'boringssl.googlesource.com',
 'pdfium.googlesource.com'
 ]
-ip = '173.194.121.85'
+ip = '173.194.121.79'
 %>\
 % for site in [ elem.strip() for elem in sites ]:
 ${ip} ${site}
